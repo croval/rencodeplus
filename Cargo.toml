@@ -1,0 +1,12 @@
+[package]
+name = "rencodeplus"
+version = "0.1.0"
+edition = "2024"
+license = "GPL-2.0-only"
+description = "Clean-room encoder/decoder for the Xpra rencodeplus wire format"
+repository = "https://github.com/croval/rencodeplus"
+readme = "README.md"
+keywords = ["xpra", "serialization", "rencode", "codec"]
+categories = ["encoding"]
+
+[dependencies]
